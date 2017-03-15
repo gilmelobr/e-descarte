@@ -2,7 +2,7 @@
 <html lang="">
 <head>
     <meta charset="UTF-8">
-    <title>Nome do Documento</title>
+    <title>TI VERDE: Locais de descartes de componentes eletrônicos.</title>
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 
